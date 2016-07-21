@@ -1,4 +1,4 @@
 = Summary
 
-. 가가가
+. link:ac00_ac00_ac00.adoc[가가가]
 

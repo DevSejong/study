@@ -1,1 +1,6 @@
-# study
+= study
+
+테스트입니다.
+그림은 어떻게 들어가나요?
+
+image:aws-loadbalancing-autoscaling-blogpost.png[alt=""]
